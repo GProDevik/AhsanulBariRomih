@@ -74,7 +74,7 @@ social:
 analytics:
   provider: "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id: UA-189125427-1
+    tracking_id: 
 # Site Author
 author:
   name: "Md Ahsanul Bari"
@@ -94,7 +94,7 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "oishee-hoque"
+  github: 
   google_plus:
   keybase:
   instagram:
