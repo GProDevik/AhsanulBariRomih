@@ -84,10 +84,10 @@ author:
   location: "Dhaka, Bangladesh"
   employer:
   pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar: "https://scholar.google.com/citations?hl=en&authuser=3&user=Xyu3_yUAAAAJ"
+  googlescholar: #"https://scholar.google.com/citations?hl=en&authuser=3&user=Xyu3_yUAAAAJ"
   DBLP:
-  email: oisheebinteyhoque@gmail.com
-  researchgate: "https://www.researchgate.net/profile/Oishee_Hoque"
+  email: wakerbari@gmail.com
+  researchgate: #"https://www.researchgate.net/profile/Oishee_Hoque"
   uri:
   bitbucket:
   codepen:
@@ -95,20 +95,20 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: 
+  github: "AhsanulBariRomi"
   google_plus:
   keybase:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin:
+  linkedin: 
   orcid: #"http://orcid.org/yourorcidurl"
   pinterest:
   soundcloud:
   stackoverflow: #http://stackoverflow.com/users/123456/username
   steam:
   tumblr:
-  twitter: "oisheehoque"
+  twitter: "WakerBari"
   vine:
   weibo:
   xing:
