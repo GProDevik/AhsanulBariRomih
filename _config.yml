@@ -80,7 +80,7 @@ analytics:
 author:
   name: "Md Ahsanul Bari"
   avatar: "romi.jpg"
-  bio:
+  bio: "I believe invention is not at all a complex process. You just have to be patient and keep it simple"
   location: "Dhaka, Bangladesh"
   employer:
   pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -112,7 +112,7 @@ author:
   vine:
   weibo:
   xing:
-  youtube: #"https://www.youtube.com/channel/UC4I1auxYEDhA1k9duG6rSAQ"
+  youtube: "https://www.youtube.com/channel/UC4I1auxYEDhA1k9duG6rSAQ"
   wikipedia:
 
 # Reading Files
