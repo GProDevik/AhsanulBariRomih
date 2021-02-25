@@ -7,12 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Greetings!!!
 
-I am Oishee Bintey Hoque, graduated with a B.Sc. degree in Computer Science from [Ahsanullah University of Science & Technology (AUST)](http://aust.edu/), Dhaka, Bangladesh. After graduation, I worked as a Software Engineer at [Enosis Solutions](https://www.enosisbd.com/), Bangladesh for a year. My research interests include, but are not limited to, Deep Learning, Machine Learning, Computer Vision and NLP.
+<div style="text-align: justify"> 
 
-\*\*I have started my Ph.D. at the **University of Virginia** in Fall'21.
 
-**For additional information, please see my [CV](https://oishee-hoque.github.io/cv/) and [publications](https://oishee-hoque.github.io/publications/).**
+I am Md. Ahsanul Bari (Romi). I have completed B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. After graduation, I have been serving <a href="https://www.dutchbanglabank.com/"> Dutch Bangla bank Ltd </a> as an IT Developer. My research interests include, but are not limited to, Deep Learning, Machine Learning, Metaheuristic Algorithms. .
+
+\*\*I Served AUST CSE Society as General Secretary and later as Vice President.
+
+**For additional information, please see my [CV](https://ahsanulbariromi.github.io/ahsanul-bari.github.io/cv/).**
 
 <!-- <a href="https://oishee-hoque.github.io/publications/"> <img src="https://oishee-hoque.github.io/images/pubs.png" alt="Publication Venues"
 	title="Publication Venues" width="600" height="200"> </a> -->
