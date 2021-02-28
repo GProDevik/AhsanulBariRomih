@@ -12,14 +12,16 @@ Greetings!!!
 <div style="text-align: justify"> 
 
 
-I am Md. Ahsanul Bari (Romi). I have completed B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. After graduation, I have been serving <a href="https://www.dutchbanglabank.com/"> Dutch Bangla bank Ltd </a> as an IT Developer. My research interests include, but are not limited to, Deep Learning, Machine Learning, Metaheuristic Algorithms. .
+Greetings!!!
 
-\*\*I Served AUST CSE Society as General Secretary and later as Vice President.
+<div style="text-align: justify"> 
 
-**For additional information, please see my [CV](https://ahsanulbariromi.github.io/ahsanul-bari.github.io//cv/).**
+I am Md. Ahsanul Bari (Romi). I have completed B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. After graduation, I have been serving <a href="https://www.dutchbanglabank.com/"> Dutch Bangla bank Ltd </a> as an IT Developer. My research interests include, but are not limited to, Deep Learning, Machine Learning, Metaheuristic Algorithms.<br /><br /></div>
 
-<!-- <a href="https://oishee-hoque.github.io/publications/"> <img src="https://oishee-hoque.github.io/images/pubs.png" alt="Publication Venues"
-	title="Publication Venues" width="600" height="200"> </a> -->
+<b>I have started my Ph.D. in Computer Science at the </b><span style="color:#E57200"><b> University of Virginia </b></span> <b>from this Fall. </b> &#x1F60a; <br />
+
+
+**For additional information, please see the [CV](https://tonmoy-hossain.github.io/cv/) and [publications](https://tonmoy-hossain.github.io/publications/).**
 
 ## Recent News
 
