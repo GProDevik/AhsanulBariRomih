@@ -7,19 +7,35 @@ redirect_from:
   - /resume
 ---
 
-[Download Full CV](https://oishee-hoque.github.io/files/OisheeHoqueResume.pdf) <span style ="color:Green"> [<ins>*Last Updated on Dec 20, 2020*</ins>] </span>
+## Education 
+-------------
+<b>B.Sc., Computer Science and Engineering</b><br />
+Ahsanullah University of Science and Technology<br />
+Dhaka, Bangladesh<br />
+<i style='color:#000099;'>**May 2015 - July 2019**</i>
+
+## Employment 
+-------------
+<b>Senior Officer (Software Development)</b><br />
+IT Development Division <br/>
+Dutch Bangla Bank Ltd<br />
+<i style='color:#000099;'>**February 2021 - Present**</i><br/>
+
+<b>MTO (Software Development)</b><br />
+IT Development Division <br/>
+Dutch Bangla Bank Ltd.<br />
+<i style='color:#000099;'>**February 2020 - February 2021**</i>
+
+[Download Full CV](https://tonmoy-hossain.github.io/files/TonmoyHossainCV.pdf) [<ins>*Last Updated on August 25, 2021*</ins>]
 
 ## Contact Me
+-------------
 
----
+**Email:** pwg7jb [at] virginia [dot] edu, tonmoyhossain.cse [at] ieee [dot] org<br /> 
+ <br /> 
+**Website:** [https://tonmoy-hossain.github.io](https://tonmoy-hossain.github.io/) <br />
 
-**Email:** oisheebinteyhoque [at] gmail [dot] com <br />
-
-**Website:** [https://oishee-hoque.github.io](https://oishee-hoque.github.io/) <br />
-
-You can also find me on [Twitter](https://twitter.com/oisheehoque), and [Github](https://github.com/oishee-hoque/).
-
-**Address:**
+You can also find me on [Google Scholar](https://scholar.google.com/citations?hl=en&user=LxGVl2wAAAAJ), [Github](https://github.com/tonmoy-hossain).
 
 <address>
 Enosis Solutions <br /> 
