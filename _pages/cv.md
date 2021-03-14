@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculam Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -31,11 +31,11 @@ Dutch Bangla Bank Ltd.<br />
 ## Contact Me
 -------------
 
-**Email:** pwg7jb [at] virginia [dot] edu, tonmoyhossain.cse [at] ieee [dot] org<br /> 
+**Email:** wakerbari[at] gmail [dot] com <br /> 
  <br /> 
 **Website:** [https://tonmoy-hossain.github.io](https://tonmoy-hossain.github.io/) <br />
 
-You can also find me on [Google Scholar](https://scholar.google.com/citations?hl=en&user=LxGVl2wAAAAJ), [Github](https://github.com/tonmoy-hossain).
+You can also find me on [LinkedIn](), [Github](https://github.com/AhsanulBariRomi).
 
 <address>
 Enosis Solutions <br /> 
