@@ -33,9 +33,9 @@ Dutch Bangla Bank Ltd.<br />
 
 **Email:** wakerbari[at] gmail [dot] com <br /> 
  <br /> 
-**Website:** [https://tonmoy-hossain.github.io](https://tonmoy-hossain.github.io/) <br />
+**Website:** [https://ahsanulbariromi.github.io/ahsanul-bari.github.io/](https://ahsanulbariromi.github.io/ahsanul-bari.github.io/) <br />
 
-You can also find me on [LinkedIn](), [Github](https://github.com/AhsanulBariRomi).
+You can also find me on [LinkedIn](https://www.linkedin.com/in/ahsanulbariromi/), [Github](https://github.com/AhsanulBariRomi).
 
 <address>
 Enosis Solutions <br /> 
