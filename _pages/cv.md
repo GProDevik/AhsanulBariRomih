@@ -26,7 +26,7 @@ IT Development Division <br/>
 Dutch Bangla Bank Ltd.<br />
 <i style='color:#000099;'>**February 2020 - February 2021**</i>
 
-[Download Full CV](https://github.com/AhsanulBariRomi/ahsanul-bari.github.io/files/CV_AhsanulBariRomi.pdf) [<ins>*Last Updated on August 25, 2021*</ins>]
+[Download Full CV](https://github.com/AhsanulBariRomi/ahsanul-bari.github.io/tree/main/files/CV_AhsanulBariRomi.pdf) [<ins>*Last Updated on August 25, 2021*</ins>]
 
 ## Contact Me
 -------------
