@@ -16,7 +16,7 @@ I am Md. Ahsanul Bari (Romi). I have completed B.Sc. in Computer Science and Eng
 I Served AUST CSE Society as <b> General Secretary </b> and later as <b> Vice President </b> <br />
 
 
-**For additional information, please see the [CV](https://ahsanulbariromi.github.io/ahsanul-bari.github.io/ cv/).**
+**For additional information, please see the [CV](https://ahsanulbariromi.github.io/ahsanul-bari.github.io/cv/).**
 
 ## Recent News
 
