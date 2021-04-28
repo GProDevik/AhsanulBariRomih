@@ -19,11 +19,11 @@ author_profile: true
 ## Leadership Activities
 
 ---
-
-- Class Representative of **Batch - 35**, AUST, CSE Dept. (The class consisted of 52 students.)
+- 
+- Class Representative of **Batch - 35 (Section A)**, AUST, CSE Dept. (The class consisted of 52 students.) <span style="color:Blue"> [Fall,15 - Spring,16] </span>
 - Organizer and Host, **AUST CSE WEEK 2018**, Dhaka, Bangladesh.
 
-## Language Proficiency
+## Organizer Activity
 
 ---
 
