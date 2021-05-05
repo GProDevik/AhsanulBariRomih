@@ -13,7 +13,7 @@ Greetings..!
 
 I am Md. Ahsanul Bari (Romi). I have completed B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. After graduation, I have been serving <a href="https://www.dutchbanglabank.com/"> Dutch Bangla bank Ltd </a> as an IT Developer. My research interests include, but are not limited to, Deep Learning, Machine Learning, Metaheuristic Algorithms.<br /></div>
 
-I Served AUST CSE Society as <b> General Secretary </b> and later as <b> Vice President </b> <br />
+I Served AUST CSE Society as <b> General Secretary </b> and later as <b> Vice President </b> For more info please go through the [Activities](https://ahsanulbariromi.github.io/ahsanul-bari.github.io/Activities/) <br />
 
 
 **For additional information, please see the [CV](https://ahsanulbariromi.github.io/ahsanul-bari.github.io/cv/).**

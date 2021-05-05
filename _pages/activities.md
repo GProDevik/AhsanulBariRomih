@@ -19,10 +19,10 @@ author_profile: true
 ## Leadership Activities
 
 ---
-- Vice President of AUST CSE Society. <span style="color:Blue"> [Fall,18] </span>
-- General Secretary of AUST CSE Society. <span style="color:Blue"> [Spring,18] </span>
-- Society Representative of **Batch - 35**, AUST, CSE Dept. (The batch consisted of 152 students.) <span style="color:Blue"> [Fall,16 - Fall,17] </span>
-- Class Representative of **Batch - 35 (Section A)**, AUST, CSE Dept. (The class consisted of 52 students.) <span style="color:Blue"> [Fall,15 - Spring,16] </span>
+- **Vice President(VP)** of AUST CSE Society. <span style="color:Blue"> [Fall,18] </span>
+- **General Secretary(GS)** of AUST CSE Society. <span style="color:Blue"> [Spring,18] </span>
+- **Society Representative(SR)** of Batch - 35, AUST, CSE Dept. (The batch consisted of 152 students.) <span style="color:Blue"> [Fall,16 - Fall,17] </span>
+- **Class Representative(CR)** of Batch - 35 (Section A), AUST, CSE Dept. (The class consisted of 52 students.) <span style="color:Blue"> [Fall,15 - Spring,16] </span>
 - Organizer and Host, **AUST CSE WEEK 2018**, Dhaka, Bangladesh.
 
 ## Organizer Activity
