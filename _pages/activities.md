@@ -19,7 +19,8 @@ author_profile: true
 ## Leadership Activities
 
 ---
-- **Vice President(VP)** of AUST CSE Society. <span style="color:Blue"> [Fall,18] </span>
+- **Vice President(VP)** of AUST CSE Society. <span style="color:Blue"> [Fall,18] </span> <br />
+    Farewell Speech from CSE Department on behalf of the batch on Rag Day. [Capture](https://drive.google.com/file/d/1QcGzWBa0MNzZzpmKrwtnitTsAET6wRz2/view?usp=sharing) 
 - **General Secretary(GS)** of AUST CSE Society. <span style="color:Blue"> [Spring,18] </span>
 - **Society Representative(SR)** of Batch - 35, AUST, CSE Dept. (The batch consisted of 152 students.) <span style="color:Blue"> [Fall,16 - Fall,17] </span>
 - **Class Representative(CR)** of Batch - 35 (Section A), AUST, CSE Dept. (The class consisted of 52 students.) <span style="color:Blue"> [Fall,15 - Spring,16] </span>
