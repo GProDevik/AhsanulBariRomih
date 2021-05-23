@@ -5,16 +5,6 @@ permalink: /activities/
 author_profile: true
 ---
 
-## Professional Services
-
----
-
-1. **Program Committee/Sub-Reviewer**
-   - **2019:** [ICIET](http://www.enggtech.du.ac.bd/iciet-2019/)
-2. **Judge** at [Bangladeshi National Robotics Olympiad, 2019](https://bdro.org/)
-3. **Judge** at [Bangladeshi National Robotics Olympiad, 2020](https://bdro.org/)
-
----
 
 ## Leadership Activities
 
@@ -27,12 +17,16 @@ author_profile: true
 - **Class Representative(CR)** of Batch - 35 (Section A), AUST, CSE Dept. (The class consisted of 52 students.) <span style="color:Blue"> [Fall,15 - Spring,16] </span>
 
 
-## Organizer Activity
+## Organizer Activities
 
 ---
 
-- Passed Japanese NAT - N4 Test
-
+- Aust CSE Fest, Spring-18. The main agendas are to welcome the freshers and farewell to the graduates. [Captures] (https://drive.google.com/file/d/1D_IJwbjysJuv3aECJEcnOXrTZlQPhOOT/view?usp=sharing)
+- Intra AUST Tech Contest Spring-18 (CSE WEEK) [News Articles] (https://drive.google.com/file/d/1It2PEIcysc_UYFvhiYGnDWnpcZSAs41F/view?usp=sharing) <br />
+  Intra AUST Programming Contest <br />
+  Intra AUST Project Show <br />
+  Intra AUST Quiz Contest <br />
+- Aust CSE Footbal Tournament - 2018
 ## Other Activities
 
 ---
