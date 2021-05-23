@@ -21,8 +21,8 @@ author_profile: true
 
 ---
 
-- Aust CSE Fest, Spring-18. The main agendas are to welcome the freshers and farewell to the graduates. [Captures] (https://drive.google.com/file/d/1D_IJwbjysJuv3aECJEcnOXrTZlQPhOOT/view?usp=sharing)
-- Intra AUST Tech Contest Spring-18 (CSE WEEK) [News Articles] (https://drive.google.com/file/d/1It2PEIcysc_UYFvhiYGnDWnpcZSAs41F/view?usp=sharing) <br />
+- Aust CSE Fest, Spring-18. The main agendas are to welcome the freshers and farewell to the graduates. [Captures](https://drive.google.com/file/d/1D_IJwbjysJuv3aECJEcnOXrTZlQPhOOT/view?usp=sharing)
+- Intra AUST Tech Contest Spring-18 (CSE WEEK) [News Articles](https://drive.google.com/file/d/1It2PEIcysc_UYFvhiYGnDWnpcZSAs41F/view?usp=sharing) <br />
   Intra AUST Programming Contest <br />
   Intra AUST Project Show <br />
   Intra AUST Quiz Contest <br />
