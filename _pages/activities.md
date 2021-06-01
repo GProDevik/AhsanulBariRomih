@@ -32,7 +32,8 @@ author_profile: true
 
 ---
 
-- Active Participant of **Aust Programming Training Lab**
-- Problem Setter, **AUST CSE Preliminary Programming Contest - 2018**
-- Participated in the short tournament of Aust Football and Cricket (Woman's Team)
-- Hosted [Aust CSE Week Prize Giving Ceremony - 2018](https://www.facebook.com/codeware.aust/)
+- Active Participant of Intra Aust programming contests.
+- Participated in all the Departmental Cricket tournaments in Undergraduate life.
+- Participated in all the Departmental Football tournaments in Undergraduate life.
+- Participated in local badminton Tournament.
+- Regularly participating in winter cloth distribution since 2013.
