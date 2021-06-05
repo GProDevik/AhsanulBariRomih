@@ -27,7 +27,7 @@ author_profile: true
   Intra AUST Project Show <br />
   Intra AUST Quiz Contest <br />
 - **Aust CSE Footbal Tournament - 2018** (Both Men & Women) <br />
-  [A short tour to the FootBall Tournament and CSE Week](https://drive.google.com/file/d/12kHtMK3JvLTvYY2auHUNsSej8lUd1LGT/view?usp=sharing)
+  [A short tour to the FootBall Tournament and CSE Week](https://drive.google.com/file/d/12kHtMK3JvLTvYY2auHUNsSej8lUd1LGT/view?usp=sharing)<br />
   
   
 ## Other Activities
