@@ -17,8 +17,8 @@ redirect_from:
 - **CGPA: 3.73** <span style ="color:Green"> [*out of 4.00* ] </span>
 - **6<sup>th</sup>** out of 152 students
 - **Thesis title:** ["Design And Implementation Of Hybrid Evolutionary Algorithms: A case study with Differential Evolution variants"](https://drive.google.com/file/d/1cDjZVQmYVP50tPlnPpQwwD7WJdruuxS5/view?usp=sharing)
-- **Thesis Presentation:** [<span style ="color:Green"> [**Presentation**] </span>](https://oishee-hoque.github.io/files/DefensePresentation.pdf)
-- **Supervisor:** [Mohammad Imrul Jubair](https://scholar.google.com/citations?user=H4-yZ3wAAAAJ&hl=en), Assistant Professor, CSE Department.
+- **Thesis Presentation:** [<span style ="color:Green"> [**Presentation**] </span>](https://docs.google.com/presentation/d/1u3cTWuMEA4_UCC33FUl8OhjkzsWUjwXG/edit?usp=sharing&ouid=107859767730216986960&rtpof=true&sd=true)
+- **Supervisor:** [Dr. Mohammad Shafiul Alam](https://scholar.google.com/citations?hl=en&user=5ZXfn_cAAAAJ), Professor & Head, Department of CSE, AUST
 
 ---
 
