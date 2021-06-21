@@ -22,11 +22,14 @@ redirect_from:
 
 ---
 
-# Awards & Scholarship
+# Achievements
 
-- **Dean’s List of Honor**, (Bachelor of Science)
-- **Freedom Fighter Quota**, Full Free Scholarship in Undergraduate Studies (National, 2015 - 2019)
-
+- Worked as The **Vice-president** of AUST CSE Society(Fall-18). [Activities](https://ahsanulbariromi.github.io/ahsanul-bari.github.io/activities/)<br />
+- Worked as The **General Secretary** of AUST CSE Society(Spring-18).
+  (Candidates are selected based on academic performance along with leadership capabilities)
+- 100+ online judge problem solved.
+- 7th Position, Intra AUST Programming Contest CONTEST-Spring 2016
+- Achieved junior **scholarship in talent pool** under Dhaka board from the government of Bangladesh.
 ---
 
 # Participations & Certificates
