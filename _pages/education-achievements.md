@@ -32,18 +32,6 @@ redirect_from:
 - Achieved junior **scholarship in talent pool** under Dhaka board from the government of Bangladesh.
 ---
 
-# Participations & Certificates
 
-- 11th Position, National Girls Programming Contest-2016
-- 16th Position, National Girls Programming Contest-2017
-- 64th Position, ACM ICPC DHAKA Regional 2017
-- 99th Position, ACM ICPC DHAKA Regional 2018
-- 5th Position, Intra AUST Programming Contest CONTEST-Spring 2016
-- Judge at Bangladeshi National Robotics Olympiad, 2019
-- Judge at Bangladeshi National Robotics Olympiad, 2020
-- Certificate on Presentation at International Conference on Innovation in Engineering and Technology(ICIET - 2018)
-- Certificate on Presentation at 23rd International Conference on Computer and Information Technology, Dhaka, Bangladesh (ICCIT 2020)
-- Certificate on Presentation at 15th Asian Conference on Computer Vision (ACCV), 2020
-- Certificate on passing Japanese NAT - N4 Test
 
----
+
