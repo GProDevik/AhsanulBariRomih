@@ -28,7 +28,7 @@ redirect_from:
 - Worked as The **General Secretary** of AUST CSE Society(Spring-18).
   (Candidates are selected based on academic performance along with leadership capabilities)
 - 100+ online judge problem solved.
-- 7th Position, Intra AUST Programming Contest CONTEST-Spring 2016
+- 7th Position, Intra AUST Programming Contest CONTEST-Spring 2016.
 - Achieved junior **scholarship in talent pool** under Dhaka board from the government of Bangladesh.
 ---
 
