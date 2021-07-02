@@ -30,7 +30,6 @@ redirect_from:
 - 100+ online judge problem solved.
 - 7th Position, Intra AUST Programming Contest CONTEST-Spring 2016.
 - Achieved junior **scholarship in talent pool** under Dhaka board from the government of Bangladesh.
----
 
 
 
