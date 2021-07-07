@@ -27,7 +27,7 @@ author_profile: true
 - **Efficient Noise Reduction System With Dataset**:
   <br>
   In this project, user can add noise - Salt Pepper Noise, Gaussian Noise and Speckle Noise – and apply filters Wiener Filter, Median Filter, Gaussian Filter by varying the parameters. (Tools: Matlab).
-- **Data analysis on people’s place of interest ** :
+- **Data analysis on people’s place of interest**:
   <br>
   It’s a humans place of interest analysis project using the data collected from our department. (Tools: Python, Jupyter Notebook).
 - **Public Library**:
