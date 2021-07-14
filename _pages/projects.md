@@ -26,23 +26,23 @@ author_profile: true
 
 - **Efficient Noise Reduction System With Dataset**:
   <br>
-  In this project, user can add noise - Salt Pepper Noise, Gaussian Noise and Speckle Noise – and apply filters Wiener Filter, Median Filter, Gaussian Filter by varying the parameters. 
+  In this project, user can add noise - Salt Pepper Noise, Gaussian Noise and Speckle Noise – and apply filters Wiener Filter, Median Filter, Gaussian Filter by varying the parameters. <br />
   (Tools: Matlab).
 - **Data analysis on people’s place of interest**:
   <br>
-  It’s a humans place of interest analysis project using the data collected from our department. 
+  It’s a humans place of interest analysis project using the data collected from our department. <br />
   (Tools: Python, Jupyter Notebook).
 - **Public Library**:
   <br>
-  Distributed Database Management Project 
+  Distributed Database Management Project <br />
   (Tools: Oracle PL/SQL).
 - **Voice Controlled Car**:
   <br>
-  It's car that reacts according to the voice command through android device connected via bluetooth module 
+  It's car that reacts according to the voice command through android device connected via bluetooth module <br />
   (Tools: Arduino Mega, L298N Module, Bluetooth Module HC – 05, 300RPM Motor ).
 - **AUST Library**:
   <br>
-  It's a Library Management Application. 
+  It's a Library Management Application. <br />
   (Tools: Microsoft Windows, C#, Asp.Net, MySQL).
 - **ROBO MOS FACE RECOGNIZING MESSENGER**:
   <br>
