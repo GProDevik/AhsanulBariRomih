@@ -28,39 +28,49 @@ author_profile: true
   <br>
   In this project, user can add noise - Salt Pepper Noise, Gaussian Noise and Speckle Noise – and apply filters Wiener Filter, Median Filter, Gaussian Filter by varying the parameters. <br />
   (Tools: Matlab).
+  
 - **Data analysis on people’s place of interest**:
   <br>
   It’s a humans place of interest analysis project using the data collected from our department. <br />
   (Tools: Python, Jupyter Notebook).
+  
 - **Public Library**:
   <br>
   Distributed Database Management Project <br />
   (Tools: Oracle PL/SQL).
+  
 - **Voice Controlled Car**:
   <br>
   It's car that reacts according to the voice command through android device connected via bluetooth module <br />
   (Tools: Arduino Mega, L298N Module, Bluetooth Module HC – 05, 300RPM Motor ).
+  
 - **AUST Library**:
   <br>
   It's a Library Management Application. <br />
-  (Tools: Microsoft Windows, C#, Asp.Net, MySQL).
-- **ROBO MOS FACE RECOGNIZING MESSENGER**:
+  (Tools: Visual Studio, C#, Asp.Net, MySQL).
+  
+- **Blood Bank Management System**:
   <br>
-  Server-client based face recognition and communication system. (Tool: Raspberry Pi, Python2,
-  OpenCV, Pi Cam). [[Code]](https://github.com/oishee-hoque/Robo-Mos-Face-Detector)
-- **SHOPEXPERT**:
+  It's a blood bank system to maintain clients and donors.<br />
+  (Tools: HTML, CSS, Php, MySQL)
+  
+- **Ruposhi Barisal**:
   <br>
-  E-commerce based website. (Tools: Visual Studio 2017, MVC, ASP.NET, C#). [[Code]](https://github.com/oishee-hoque/ShopExpert)
-- **CINEFREAK**:
+  It's a travel app where a description about a city name Barisal was provided along with the places to visit, transportation and foods. <br />
+  (Tools: Android, MySQL)
+  
+- **ATM Management System**:
   <br>
-  Movie listing based android app. (Tools: Android Studio, XML, Java, SQLite). [[Code]](https://github.com/oishee-hoque/CineFreak-Android-App)
-- **BAZINGA**:
+  A simple application to maintain an ATM system.
+  (Tools: Java, Netbeans, MySQL)
+  
+- **Student Management System**:
   <br>
-  Movies information-based website with various user features. (Tools: HTML, PHP, MySQL, WAMP). [[Code]](https://github.com/oishee-hoque/Bazinga-A-movie-based-website)
-- **SUP**:
+  The name of the project explains it all.
+  (Tools: Java, Netbeans, SQL-lite )
+  
+- **DX Ball**:
   <br>
-  Desktop based server-client chat application with file sharing option. (Tools: Java, Netbeans). [[Code]](https://github.com/oishee-hoque/Sup-Chat-Application)
-- **WAR OF SPACESHIP**:
-  <br>
-  Desktop based shooting game with several fun features. (Tools: Visual Studio 2010, iGraphics, C). [[Code]](https://github.com/oishee-hoque/War-Of-Spaceship-Visual-Studio)
+  The game contains multiple levels and some bonus level. Timer. and top 5 scores are stored along with the player names using file system.
+  (Tools: Visual Studio, iGraphics, c)
 
