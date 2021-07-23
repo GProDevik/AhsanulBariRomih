@@ -5,18 +5,16 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Personal Projects [2018-2020]
+## Personal Projects [2020]
 
 ---
 
-- 37 Dogs Breed Classifier
-- Face Recognition System Using Facenet (1:k matching problem)
-- Sentiment Analysis from Facial Expression
-- Neural Style Transfer
-- Hand Segmentation (wearing gloves)
-- Human Segmentation and Background Remove
-- IMDB User Review Analysis
-
+- **Simple Debit Credit System Application**
+  <br />
+  This is a simple debit credit system for a banks savings account. End users at different branches of the bank maintains the customers and their accounts. Admins maintains the end users.
+  <br />
+  *TOOLS:* 
+  <i style='color:#000099;'>IDE:</i> Eclipse Enterprise Edition v.2020-03, <i style='color:#000099;'> Framework:</i> Struts 2.5, <i style='color:#000099;'>Platform:<i/> Java 1.8, <i style='color:#000099;'>Web Server: <i/> Apache Tomcat 8.5, <i style='color:#000099;'>Database:<i/> Oracle 11g, <i style='color:#000099;'>API:<i/> Java Servlet 3.0.1
 ---
 
 
