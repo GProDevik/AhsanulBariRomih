@@ -14,7 +14,7 @@ author_profile: true
   This is a simple debit credit system for a banks savings account. End users at different branches of the bank maintains the customers and their accounts. Admins maintains the end users.
   <br />
   *TOOLS:* 
-  <i style='color:#000099;'>IDE:</i> Eclipse Enterprise Edition v.2020-03, <i style='color:#000099;'> Framework:</i> Struts 2.5, <i style='color:#000099;'>Platform:<i/> Java 1.8, <i style='color:#000099;'>Web Server: <i/> Apache Tomcat 8.5, <i style='color:#000099;'>Database:<i/> Oracle 11g, <i style='color:#000099;'>API:<i/> Java Servlet 3.0.1
+  <i style='color:#000099;'>IDE:</i> Eclipse Enterprise Edition v.2020-03, <i style='color:#000099;'> Framework:</i> Struts 2.5, <i style='color:#000099;'>Platform:</i> Java 1.8, <i style='color:#000099;'>Web Server: </i> Apache Tomcat 8.5, <i style='color:#000099;'>Database:</i> Oracle 11g, <i style='color:#000099;'>API:</i> Java Servlet 3.0.1
 ---
 
 
