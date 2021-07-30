@@ -5,6 +5,15 @@ permalink: /projects/
 author_profile: true
 ---
 
+## Personal Projects [2021]
+
+---
+*Working with JavaScript and NodeJS. Some of the demo videos are given below:*
+-[eWallet](https://www.youtube.com/watch?v=RC4LydV7VXs)
+-[TMS Prototype](https://www.youtube.com/watch?v=TfQlj9YMgtM)
+-[A shop web server with nodeJS](https://www.youtube.com/watch?v=FJtUcVkxkIQ)
+
+
 ## Personal Projects [2020]
 
 ---
