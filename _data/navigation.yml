@@ -13,7 +13,7 @@ main:
     url: /projects/
 
   - title: "Certifications"
-  url: /certifications/
+    url: /certifications/
 
   - title: "Activities"
     url: /activities/
