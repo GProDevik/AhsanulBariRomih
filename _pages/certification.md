@@ -39,8 +39,8 @@ author_profile: true
   
 - **Title:** 85th Foundation Training Course (Banking) <br />
   **Issuing Organization:** Dutch Bangla Bank Ltd. <br />
-  [Certificate]()
+  [Certificate](https://drive.google.com/file/d/1yL79vZJ0u4RZV0SjQod59WvwyVZG2XqB/view?usp=sharing)
   
 - **Title:** Prevention of Money Laundering and Combating Terrorist Financing <br />
   **Issuing Organization:** Dutch Bangla Bank Ltd. <br />
-  [Certificate]()
+  [Certificate](https://drive.google.com/file/d/1OsrE2bOE9PTMCBFgxvH99O-BtboaW8rl/view?usp=sharing)
