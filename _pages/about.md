@@ -26,8 +26,8 @@ For more info please go through the [Activities](https://ahsanulbariromi.github.
 
 ## Recent Project Demonstrations
 
-- eWallet[Demo Video](https://www.youtube.com/watch?v=RC4LydV7VXs) <br />
-- TMS Prototype[Demo Video](https://www.youtube.com/watch?v=TfQlj9YMgtM) <br />
-- A shop web server with nodeJS[Demo Video](https://www.youtube.com/watch?v=FJtUcVkxkIQ)
+- eWallet [Demo Video](https://www.youtube.com/watch?v=RC4LydV7VXs) <br />
+- TMS Prototype [Demo Video](https://www.youtube.com/watch?v=TfQlj9YMgtM) <br />
+- A shop web server with nodeJS [Demo Video](https://www.youtube.com/watch?v=FJtUcVkxkIQ)
 
 ---
