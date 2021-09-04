@@ -29,7 +29,7 @@ redirect_from:
   (Candidates are selected based on academic performance along with leadership capabilities)
 - 100+ online judge problem solved.
 - 7th Position, Intra AUST Programming Contest CONTEST-Spring 2016.
-- Achieved junior **scholarship in talent pool** under Dhaka board from the government of Bangladesh.
+- Achieved junior **scholarship in talent pool** under Dhaka division from the government of Bangladesh.
 
 
 
