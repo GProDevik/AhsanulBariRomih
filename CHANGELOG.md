@@ -1,6 +1,6 @@
 ## [3.4.2](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.2)
 
-### Enhancements
+### Enhancement
 
 - Improve UX of static comment forms. [#448](https://github.com/mmistakes/minimal-mistakes/issues/448)
 
